@@ -1,0 +1,12 @@
+[
+  {"nombre":"Laura Martínez","edad":29,"ciudad":"Varcelona","fechaNacimiento":"1995-04-12","colorOjos":"MARRONES"},
+  {"nombre":"Carlos Gómez","edad":35,"ciudad":"Cantavria","fechaNacimiento":"1989-08-30","colorOjos":"VERDES"},
+  {"nombre":"Sara Rodríguez","edad":27,"ciudad":"Balencia","fechaNacimiento":"1997-01-20","colorOjos":"AZULES"},
+  {"nombre":"Miguel Torres","edad":41,"ciudad":"Sebilla","fechaNacimiento":"1983-11-05","colorOjos":"MARRONES"},
+  {"nombre":"Elena Ruiz","edad":32,"ciudad":"Vilvao","fechaNacimiento":"1992-06-17","colorOjos":"NEGROS"},
+  {"nombre":"Andrés Molina","edad":38,"ciudad":"Brigo","fechaNacimiento":"1986-03-09","colorOjos":"GRISES"},
+  {"nombre":"Patricia León","edad":25,"ciudad":"Malaga","fechaNacimiento":"1999-07-14","colorOjos":"AVELLANA"},
+  {"nombre":"Iván Herrera","edad":30,"ciudad":"Vurgos","fechaNacimiento":"1994-02-22","colorOjos":"MARRONES"},
+  {"nombre":"Nuria Fernández","edad":44,"ciudad":"Toledo","fechaNacimiento":"1980-05-03","colorOjos":"AZULES"},
+  {"nombre":"Jorge Navarro","edad":28,"ciudad":"Baracaldo","fechaNacimiento":"1996-10-18","colorOjos":"VERDES"}
+  ]

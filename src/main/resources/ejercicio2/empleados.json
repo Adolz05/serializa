@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Laura Martínez",
+    "edad": 29,
+    "ciudad": "Varcelona",
+    "colorOjos": "MARRONES"
+  },
+  {
+    "nombre": "Carlos Gómez",
+    "edad": 35,
+    "ciudad": "Cantavria",
+    "colorOjos": "VERDES"
+  },
+  {
+    "nombre": "Sara Rodríguez",
+    "edad": 27,
+    "ciudad": "Balencia",
+    "colorOjos": "AZULES"
+  },
+  {
+    "nombre": "Miguel Torres",
+    "edad": 41,
+    "ciudad": "Sebilla",
+    "colorOjos": "MARRONES"
+  },
+  {
+    "nombre": "Elena Ruiz",
+    "edad": 32,
+    "ciudad": "Vilvao",
+    "colorOjos": "NEGROS"
+  },
+  {
+    "nombre": "Andrés Molina",
+    "edad": 38,
+    "ciudad": "Brigo",
+    "colorOjos": "GRISES"
+  },
+  {
+    "nombre": "Patricia León",
+    "edad": 25,
+    "ciudad": "Malaga",
+    "colorOjos": "AVELLANA"
+  },
+  {
+    "nombre": "Iván Herrera",
+    "edad": 30,
+    "ciudad": "Vurgos",
+    "colorOjos": "MARRONES"
+  },
+  {
+    "nombre": "Nuria Fernández",
+    "edad": 44,
+    "ciudad": "Toledo",
+    "colorOjos": "AZULES"
+  },
+  {
+    "nombre": "Jorge Navarro",
+    "edad": 28,
+    "ciudad": "Baracaldo",
+    "colorOjos": "VERDES"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Carlos Gómez",
+    "edad": 35,
+    "ciudad": "Cantabria",
+    "colorOjos": "VERDES"
+  },
+  {
+    "nombre": "Miguel Torres",
+    "edad": 41,
+    "ciudad": "Sevilla",
+    "colorOjos": "MARRONES"
+  },
+  {
+    "nombre": "Elena Ruiz",
+    "edad": 32,
+    "ciudad": "Bilbao",
+    "colorOjos": "NEGROS"
+  },
+  {
+    "nombre": "Andrés Molina",
+    "edad": 38,
+    "ciudad": "Vrigo",
+    "colorOjos": "GRISES"
+  },
+  {
+    "nombre": "Nuria Fernández",
+    "edad": 44,
+    "ciudad": "Toledo",
+    "colorOjos": "AZULES"
+  }
+]
