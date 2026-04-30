@@ -1,12 +1,11 @@
+import ejercicio1.Plato;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 void main() {
 
-    String rutaCsv = "src/main/resources/platos.csv";
-    String rutaJson = "src/main/resources/platos.json";
-
-
+    String rutaCsv = "src/main/resources/ejercicio1/platos.csv";
+    String rutaJson = "src/main/resources/ejercicio1/platos.json";
 
     List<Plato> listaPlatos = new ArrayList<>();
 
