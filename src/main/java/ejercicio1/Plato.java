@@ -46,4 +46,6 @@ public class Plato {
     public void setNutricion(Map<String, String> nutricion) {
         this.nutricion = nutricion;
     }
+
+
 }

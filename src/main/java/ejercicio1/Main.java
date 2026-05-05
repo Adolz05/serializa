@@ -56,6 +56,26 @@ void main() {
         FileWriter fw = new FileWriter(rutaJson);
         fw.write(jsonOutput);
         fw.close();
+
+        System.out.println("PLATOS RECOLECTADOS");
+        System.out.println("*******************");
+        System.out.println();
+
+        for (Plato plato: listaPlatos){
+            System.out.println("Nombre '" + plato.getNombre() + "', tiempoTotal=" + plato.getTiempoTotal() + " minutos");
+
+            System.out.println("\t"+"Desglose de tiempos");
+            for (Map.Entry<String,Integer> entry : plato.getTiempo().entrySet()){
+                System.out.println("\t" + "\t" + entry.getKey() + "\t" + entry.getValue());
+            }
+
+            System.out.println("\t"+"Desglose de Nutrición");
+            for (Map.Entry<String,String> entry : plato.getNutricion().entrySet()){
+                System.out.println("\t" + "\t" + entry.getKey() + "\t" + entry.getValue());
+            }
+
+            System.out.println();
+        }
     } catch (IOException e) {
         IO.println("Error procesando los ficheros: " + e.getMessage());
     } catch (Exception e) {
